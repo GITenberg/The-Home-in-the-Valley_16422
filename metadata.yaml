@@ -1,0 +1,43 @@
+_repo: The-Home-in-the-Valley_16422
+_version: 0.1.0
+alternative_title: Familjen i dalen. English
+contributor:
+  translator:
+    agent_name: Perce, Elbert
+    birthdate: 1831
+    deathdate: 1869
+    gutenberg_agent_id: '6696'
+    url: http://www.gutenberg.org/2009/agents/6696
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Flygare-Carlén, Emilie
+    aliases:
+    - Carlenova, Emilie Flygare
+    - Carlénová, Emilie Flygaré
+    - Flygare, Emilie
+    - Carlén, Emilie Schmidt
+    - Flygare-Carlen, Emilie (Smith)
+    birthdate: 1807
+    deathdate: 1892
+    gutenberg_agent_id: '6695'
+    url: http://www.gutenberg.org/2009/agents/6695
+    wikipedia: http://en.wikipedia.org/wiki/Emilie_Flygare-Carl%C3%A9n
+description: ''
+gutenberg_issued: '2005-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16422'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish fiction -- Translations into English'
+- !lcc 'PT'
+- !lcsh 'Sweden -- Fiction'
+- !lcsh 'Domestic fiction'
+title: The Home in the Valley
+url: http://www.gutenberg.org/ebooks/16422
